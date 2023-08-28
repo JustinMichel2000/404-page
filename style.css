@@ -2,7 +2,7 @@
 body{
      text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-image: url("/luffy-wp.jpg");
+    background-image: url("./luffy-wp.jpg");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
